@@ -1,3 +1,4 @@
+Go and checkout portfolio [Click Me to Go to GitHub](http://github.com)
 # 💫 About Me:
 - 👋 Hi, I’m @mrprikshit<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning PHP<br>- 💬 Ask me about HTML, CSS, JavaScript
 
