@@ -1,6 +1,6 @@
 Go and checkout portfolio [prikshitjs](http://github.com)
 # 💫 About Me:
-- 👋 Hi, I’m @mrprikshit<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning PHP<br>- 💬 Ask me about HTML, CSS, JavaScript - 👋 Hi, I’m @mrprikshit
+- 👋 Hi, I’m @mrprikshit<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning PHP<br>- 💬 Ask me about HTML, CSS, JavaScript
 
 
 ## 🌐 Socials:
